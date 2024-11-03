@@ -1,17 +1,16 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730664641244 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730665154225 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730664644305 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730664647379 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730665157278 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -19,30 +18,12 @@ paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730664662502 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730665172376 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730664665581 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730664680684 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730664683845 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730664686913 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730665175432 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -50,17 +31,17 @@ paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730664702026 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730665190537 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730664705102 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730665193600 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730664708159 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730665196664 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -68,12 +49,185 @@ paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730664723263 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730665211747 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665214805 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665217883 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665233004 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665236077 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665251474 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665254545 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665257603 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665272708 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665275802 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665278865 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665293952 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665297006 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665312092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665315148 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665318205 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665333304 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665336368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665339431 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665354513 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665357579 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665372675 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665375733 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665390819 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665393894 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665396948 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665412030 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730664726335 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730665415097 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665430185 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+paypal-inter.gl.joinmc.link => 127.0.0.1:42152 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665433248 tunnel running, 1 tunnels registered
 
 
 TUNNELS
